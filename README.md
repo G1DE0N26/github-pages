@@ -1,75 +1,65 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  <<< Author notes: Portfolio header >>>
+  Include a 1280×640 image, portfolio title, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Tanmay Kamble - Data Professional Portfolio
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_A showcase of my journey in data science, analytics, and machine learning._
 
 </header>
 
 <!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  <<< Author notes: Portfolio start >>>
+  Include a start button for the repository setup and why visitors should explore it.
 -->
 
 ## Welcome
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+Welcome to my GitHub portfolio! Here, you’ll find a collection of projects, blogs, and documentation that reflect my expertise in **data analysis**, **machine learning**, and **cloud technologies**. This portfolio is a testament to my passion for creating impactful solutions through technology.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+- **Who is this for**: Recruiters, collaborators, students, and tech enthusiasts.
+- **What you'll find**: Projects in data analysis, machine learning, and cloud integration.
+- **What I specialize in**: Building predictive models, creating interactive dashboards, and optimizing data workflows.
+- **What you'll learn**: Insights into real-world projects and the skills used to build them.
 
-In this course, you will:
+In this portfolio, you will:
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
+1. Explore my key projects.
+2. Dive into my skills and expertise.
+3. Learn about my professional experiences.
+4. Get insights into my academic journey.
 
-### How to start this course
+### Featured Projects
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+1. **[Sales Data Analysis and Forecasting](#)**: A comprehensive analysis of 1M+ sales records with actionable insights and forecast models.
+2. **[AI-Powered Predictive Healthcare Analytics](#)**: Machine learning models for early disease detection and patient risk evaluation.
+3. **[Energy Consumption Prediction Analysis](#)**: Predictive analytics to optimize energy usage and resource allocation.
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+### Why explore my portfolio?
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+- Get a deeper understanding of how I combine **data science**, **visualization**, and **cloud technologies** to solve complex problems.
+- Learn about tools like Python, SQL, Tableau, and AWS, and how I use them to deliver impactful results.
+- See real-world applications of machine learning and analytics in various domains, from healthcare to energy.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### How to navigate this portfolio
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+1. Clone the repository to explore the code and resources:
+   ```bash
+   git clone https://github.com/yourusername/portfolio-repository.git
+
+2. Browse through my project folders to see documentation and implementation details.
+
+3. Don’t forget to visit my LinkedIn profile for professional updates.
+
+**Get** **connected** : Visit my [LinkedIn profile](https://www.linkedin.com/in/tanmay-kamble-26a11a169/)
+
+&copy; 2023 Tanmay Kamble &bull; [MIT License](https://gh.io/mit)
 
 </footer>
